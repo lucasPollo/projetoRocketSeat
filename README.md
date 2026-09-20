@@ -1,0 +1,1 @@
+Este projeto foi desenvolvido por Lucas Refinski Pollo de Marchi, com o passo a passo explicado pelas aulas da RocketSeat para a matéria de desenvolvimento WEB.
